@@ -1,0 +1,29 @@
+{
+	"project": {
+		"name": [
+			67,
+			111,
+			109,
+			112,
+			117,
+			116,
+			101,
+			83,
+			104,
+			97,
+			100,
+			101,
+			114
+		],
+		"templates": [
+			"C++",
+			"Common"
+		],
+		"validationLayers": {
+			"debug": [
+				"VK_LAYER_KHRONOS_validation"
+			],
+			"release": []
+		}
+	}
+}
